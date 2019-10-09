@@ -1,10 +1,10 @@
 
-Hosted here [https://stoic-volhard-5074e5.netlify.com/]
+Hosted here on Netlify: [https://stoic-volhard-5074e5.netlify.com/]
 
 # colorPicker
 ## Synopsis
 
-A RGB color picker game I  built with HTML5, CSS3, and Vanilla JavaScript
+A RGB color picker game I  built with HTML5, CSS3, and Vanilla JavaScript, featuring DOM traversals, and dynamic rendering
 
 ## Motivation
 
