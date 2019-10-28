@@ -9,7 +9,7 @@ A RGB color picker game I  built with HTML5, CSS3, and Vanilla JavaScript, featu
 ## Motivation
 
 To learn more about and grow my skills in frontend development and DOM manipulation, and data manilpulation. As well as provide
-a fun way to learn more about RGB colors.
+a fun way to learn more about RGB colors for writing better CSS.
 
 ## Installation
 
